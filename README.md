@@ -4,8 +4,8 @@ SpringboardProject3. Data from Kaggle.com
 <ul>
 <li><a href="https://github.com/mengyanl/Corona_Tweet/blob/main/Data/Corona_NLP_train.csv" >Original_Train.csv</a></li>
 <li><a href="https://github.com/mengyanl/Corona_Tweet/blob/main/Data/Corona_NLP_test.csv" >Original_Test.csv</a></li>
-<li><a href="https://github.com/mengyanl/Corona_Tweet/blob/main/Data/ProcessedTestData.csv" >Cleaned_Test_Data.csv</a></li>
 <li><a href="https://github.com/mengyanl/Corona_Tweet/blob/main/Data/ProcessedTweets.csv" >Cleaned_Training_Data.csv</a></li>
+<li><a href="https://github.com/mengyanl/Corona_Tweet/blob/main/Data/ProcessedTestData.csv" >Cleaned_Test_Data.csv</a></li>
 </ul>
 
 ## Folder2: Notebooks
