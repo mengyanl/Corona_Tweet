@@ -1,6 +1,6 @@
 # Corona_Tweet
-SpringboardProject3. Data from Kaggle.com
-Knowing what the public thinks about corona-virus will help policy makers to decide on the strategies against the COVID pandemic.
+Knowing what the public thinks about corona-virus will help policy makers to decide on the strategies against the COVID pandemic. <br>
+SpringboardProject3. Data from Kaggle.com 
 
 ## Folder1: Data
 <ul>
