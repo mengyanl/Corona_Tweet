@@ -13,7 +13,7 @@ SpringboardProject3. Data from Kaggle.com
 ## Folder2: Notebooks
 <ul>
 <li><a href="https://github.com/mengyanl/Corona_Tweet/blob/main/Notebooks/NLP_EDA_PreProcessing.ipynb" >
-NLP_EDA_PreProcessing </a></li> texts were cleaned, tokenized, and vectorized before fitting into several models 
+NLP_EDA_PreProcessing.ipynb </a></li> texts were cleaned, tokenized, and vectorized before fitting into several models 
 <li><a href="https://github.com/mengyanl/Corona_Tweet/blob/main/Notebooks/MultiDenselayer_3Classes_Tweet.ipynb" >
 MultiDenselayer_3Classes_Tweet.ipynb </a></li> texts were preprocessed then fitting into a multilayer Neural Network model, used 3 classifiers with an accuracy of 0.82. Metrics included classification report and confusionn matrix
 <li><a href="https://github.com/mengyanl/Corona_Tweet/tree/main/Notebooks/Other_Fitted_Models" > 
